@@ -7,7 +7,7 @@
 
 ###  Estudante de TI | Python | Flask | Banco de Dados
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Estudando+Desenvolvimento+Web;Aprendendo+Python+e+Flask;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Estudando+Desenvolvimento+Web;" />
 
 </div>
 
