@@ -1,5 +1,8 @@
 <div align="center">
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,14,18,20&text=Grazzielly%20Pereira&fontSize=50&fontColor=ffffff"/>
+</p>
 # 👋 Olá, eu sou a Grazzielly 
 
 ###  Estudante de TI | Python | Flask | Banco de Dados
