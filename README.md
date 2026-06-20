@@ -1,14 +1,14 @@
-<h1 align="center">Olá! 👋 Eu sou Grazzielly</h1>
+<h1 align="center">Olá! Eu sou Grazzielly</h1>
 
 <p align="center">
-💻 Estudante de TI <br>
-🚀 Aprendendo Python, Flask e Banco de Dados <br>
-🎯 Em busca da minha primeira oportunidade na área
+ Estudante de TI <br>
+ Aprendendo Python, Flask e Banco de Dados <br>
+ Em busca da minha primeira oportunidade na área
 </p>
 
 ---
 
-## 🚀 Tecnologias que estou aprendendo
+##  Tecnologias que estou aprendendo
 
 <div align="center">
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 🔥 Sequência de contribuições
+##  Sequência de contribuições
 
 <div align="center">
 
@@ -40,13 +40,13 @@
 
 ---
 
-## 🌙 Sobre mim
+##  Sobre mim
 
-✨ Atualmente estudando Desenvolvimento Web
+ Atualmente estudando Desenvolvimento Web
 
-✨ Projetos com Python e Flask
+ Projetos com Python e Flask
 
-✨ Interesse em Back-end e Banco de Dados
+ Interesse em Back-end e Banco de Dados
 
 ---
 
