@@ -3,7 +3,6 @@
 <p align="center">
  Estudante de TI <br>
  Aprendendo Python, Flask e Banco de Dados <br>
- Em busca da minha primeira oportunidade na área
 </p>
 
 ---
